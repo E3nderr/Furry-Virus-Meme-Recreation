@@ -9,3 +9,6 @@ If you plan on *trying* to continue or use my shitty code, my condolences... Pwe
 I tried building the python project into an exe-file but Tkinter seems to f*ck with cxfreeze and opens thousands
 of instances of the app when running the resulting exe file.
 If you figure out how to build the project into an exe somehow, congrats.
+
+Credit to Koiwypher for the images used,
+all rights remain with the original artist!
